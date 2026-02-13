@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7233686436",
+    "project_id": "anige-social",
+    "storage_bucket": "anige-social.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7233686436:android:4694c96df3ddabc0464f31",
+        "android_client_info": {
+          "package_name": "com.anigenet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EGKxXIAdC4vgnOnvhGYZUFncQsN6IZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
